@@ -20,6 +20,7 @@
 
 ### Bug Fixes
 
+-   [`08c21f1`](https://github.com/stdlib-js/stdlib/commit/08c21f19a3dc1c7352e4760c19c1ec8aab714b54) - update return type
 -   [`97d7e56`](https://github.com/stdlib-js/stdlib/commit/97d7e567e463ab9942c9d1188bc0c5786827e09b) - update return type
 
 </section>
@@ -32,6 +33,7 @@
 
 <details>
 
+-   [`08c21f1`](https://github.com/stdlib-js/stdlib/commit/08c21f19a3dc1c7352e4760c19c1ec8aab714b54) - **fix:** update return type _(by Athan Reines)_
 -   [`97d7e56`](https://github.com/stdlib-js/stdlib/commit/97d7e567e463ab9942c9d1188bc0c5786827e09b) - **fix:** update return type _(by Athan Reines)_
 -   [`44c2368`](https://github.com/stdlib-js/stdlib/commit/44c23684fef779a6e62dc18dd01192b192785a41) - **feat:** add `ndarray/base/dtype-alignment` _(by Athan Reines)_
 
