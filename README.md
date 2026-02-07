@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import dtypeAlignment from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-dtype-alignment@esm/index.mjs';
+import dtypeAlignment from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-dtype-alignment@v0.1.1-esm/index.mjs';
 ```
 
 #### dtypeAlignment( \[dtype] )
@@ -108,7 +108,7 @@ var obj = dtypeAlignment();
 <script type="module">
 
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@esm/index.mjs';
-import dtypeAlignment from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-dtype-alignment@esm/index.mjs';
+import dtypeAlignment from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-dtype-alignment@v0.1.1-esm/index.mjs';
 
 var dtypes = [
     'float64',
